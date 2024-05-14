@@ -28,3 +28,16 @@ https://gist.github.com/sataniceypz/b73443a5100b2346d6fb22089f409bc2
 <br />
 <br />
 <br />
+
+<h2 align="center">  ➥ Forward </h1>
+
+
+```
+https://gist.github.com/IRON-M4N/66646d2569de0e4a4671414d5537b356
+```
+ᴩᴀᴛᴛᴇʀɴ : fd <br/>
+ᴄʀᴇᴅɪᴛ : <a href="https://www.github.com/IRON-M4N">IRON-M4N 🌟</a> <br />
+ᴜꜱᴀɢᴇ : Forward message <br />
+<br />
+<br />
+<br />
