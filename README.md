@@ -1,43 +1,29 @@
-# IZUMI-EXPLUGINS
-![epsilon](https://i.imgur.com/J2m8RRH.jpeg)
-<br>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+# External Plugins 
 
 <br><br>
-<h2 align="center">  ➥ Costumized Alive </h1>
+<h2 align="center">  ➥ Owner </h1>
 
 
 ```
-https://gist.github.com/sataniceypz/9b1841761d1f2dacbeb56169a59e60b8
+https://gist.github.com/sataniceypz/a276b3b3d50d77425284b97da91ca47e
 ```
-ᴩᴀᴛᴛᴇʀɴ : izumi <br/>
-ᴄʀᴇᴅɪᴛ : <a href="https://www.github.com/sataniceypz">EYPZ 🌟</a> <br />
-ᴜꜱᴀɢᴇ : customised alive message <br />
+ᴩᴀᴛᴛᴇʀɴ : owner <br/>
+ᴄʀᴇᴅɪᴛ : <a href="https://www.github.com/sataniceypz">Eypz 🌟</a> <br />
+ᴜꜱᴀɢᴇ :  send bot owner number <br />
 <br />
 <br />
 <br />
 
-<h2 align="center">  ➥ Mention </h1>
+<h2 align="center">  ➥ Sexy </h1>
 
 
 ```
-https://gist.github.com/sataniceypz/b73443a5100b2346d6fb22089f409bc2
+https://gist.github.com/sataniceypz/0fbaa3522d51f84e206156d330776e11
 ```
-ᴩᴀᴛᴛᴇʀɴ : mention <br/>
-ᴄʀᴇᴅɪᴛ : <a href="https://www.github.com/Louis-XD">Louis-XD 🌟</a> <br />
-ᴜꜱᴀɢᴇ : mention message <br />
-<br />
-<br />
-<br />
-
-<h2 align="center">  ➥ Forward </h1>
-
-
-```
-https://gist.github.com/IRON-M4N/66646d2569de0e4a4671414d5537b356
-```
-ᴩᴀᴛᴛᴇʀɴ : fd <br/>
-ᴄʀᴇᴅɪᴛ : <a href="https://www.github.com/IRON-M4N">IRON-M4N 🌟</a> <br />
-ᴜꜱᴀɢᴇ : Forward message <br />
+ᴩᴀᴛᴛᴇʀɴ : sexy <br/>
+ᴄʀᴇᴅɪᴛ : <a href="https://www.github.com/Mask-sir">Mask Sir 🌟</a> <br />
+ᴜꜱᴀɢᴇ : Random TikTok girl video <br />
 <br />
 <br />
 <br />
