@@ -15,13 +15,13 @@ https://gist.github.com/sataniceypz/a276b3b3d50d77425284b97da91ca47e
 <br />
 <br />
 
-<h2 align="center">  ➥ Sexy </h1>
+<h2 align="center">  ➥  Tiktok</h1>
 
 
 ```
 https://gist.github.com/sataniceypz/0fbaa3522d51f84e206156d330776e11
 ```
-ᴩᴀᴛᴛᴇʀɴ : sexy <br/>
+ᴩᴀᴛᴛᴇʀɴ : tiktok <br/>
 ᴄʀᴇᴅɪᴛ : <a href="https://www.github.com/Mask-sir">Mask Sir 🌟</a> <br />
 ᴜꜱᴀɢᴇ : Random TikTok girl video <br />
 <br />
