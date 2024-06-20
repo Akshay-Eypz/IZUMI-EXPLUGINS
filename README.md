@@ -27,3 +27,16 @@ https://gist.github.com/sataniceypz/0fbaa3522d51f84e206156d330776e11
 <br />
 <br />
 <br />
+
+<h2 align="center">  ➥  Mfor</h1>
+
+
+```
+https://gist.github.com/sataniceypz/46ae9ca3358161f9ef99252230538869
+```
+ᴩᴀᴛᴛᴇʀɴ : mfor <br/>
+ᴄʀᴇᴅɪᴛ : <a href="https://www.github.com/sataniceypz">Eypz 🌟</a> <br />
+ᴜꜱᴀɢᴇ : forward message with linkpreview <br />
+<br />
+<br />
+<br />
