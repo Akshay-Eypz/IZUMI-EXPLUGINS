@@ -36,7 +36,21 @@ https://gist.github.com/sataniceypz/46ae9ca3358161f9ef99252230538869
 ```
 ᴩᴀᴛᴛᴇʀɴ : mfor <br/>
 ᴄʀᴇᴅɪᴛ : <a href="https://www.github.com/sataniceypz">Eypz 🌟</a> <br />
-ᴜꜱᴀɢᴇ : forward message with linkpreview <br />
+ᴜꜱᴀɢᴇ : forwarding message without jid<br />
+<br />
+<br />
+<br />
+
+
+<h2 align="center">  ➥  fd</h1>
+
+
+```
+https://gist.github.com/sataniceypz/9172cc8964d4bab912487d756c89d378
+```
+ᴩᴀᴛᴛᴇʀɴ : fd <br/>
+ᴄʀᴇᴅɪᴛ : <a href="https://www.github.com/sataniceypz">Eypz 🌟</a> <br />
+ᴜꜱᴀɢᴇ : forwarding message with jid <br />
 <br />
 <br />
 <br />
