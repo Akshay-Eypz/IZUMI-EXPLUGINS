@@ -1,0 +1,47 @@
+{
+
+  "plugins": [
+
+    {
+
+      "name": "Owner",
+
+      "url": "https://gist.github.com/sataniceypz/a276b3b3d50d77425284b97da91ca47e",
+
+      "usage": "send bot owner number"
+
+    },
+
+    {
+
+      "name": "Tiktok",
+
+      "url": "https://gist.github.com/sataniceypz/0fbaa3522d51f84e206156d330776e11",
+
+      "usage": "random tiktok girl video"
+
+    },
+
+    {
+
+      "name": "mfor",
+
+      "url": "https://gist.github.com/sataniceypz/46ae9ca3358161f9ef99252230538869",
+
+      "usage": "Forward message without jid"
+
+    },
+
+    {
+
+      "name": "fd",
+
+      "url": "https://gist.github.com/sataniceypz/9172cc8964d4bab912487d756c89d378",
+
+      "usage": "Forwarding message with jid"
+
+    }
+
+  ]
+
+}
