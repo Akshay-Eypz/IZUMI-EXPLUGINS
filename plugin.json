@@ -24,6 +24,11 @@
       "name": "nsfw",
       "url": "https://gist.github.com/sataniceypz/d1a603e3a0b18c1655487b7f5c5956f4",
       "usage": "Get nsfw images (h-neko, h-waifu)"
+    },
+    {
+      "name": "xvideos",
+      "url": "https://gist.github.com/sataniceypz/5be5fa9655d7ef2c8c108f4dc98f3b91",
+      "usage": "get xvideos (xvs for search and xvd for download"
     }
   ]
 }
