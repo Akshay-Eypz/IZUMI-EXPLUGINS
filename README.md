@@ -6,7 +6,7 @@
 
 
 ```
-https://gist.github.com/sataniceypz/a276b3b3d50d77425284b97da91ca47e
+https://gist.github.com/Akshay-Eypz/a276b3b3d50d77425284b97da91ca47e
 ```
 ᴩᴀᴛᴛᴇʀɴ : owner <br/>
 ᴄʀᴇᴅɪᴛ : <a href="https://www.github.com/sataniceypz">Eypz 🌟</a> <br />
@@ -19,7 +19,7 @@ https://gist.github.com/sataniceypz/a276b3b3d50d77425284b97da91ca47e
 
 
 ```
-https://gist.github.com/sataniceypz/0fbaa3522d51f84e206156d330776e11
+https://gist.github.com/Akshay-Eypz/0fbaa3522d51f84e206156d330776e11
 ```
 ᴩᴀᴛᴛᴇʀɴ : tiktok <br/>
 ᴄʀᴇᴅɪᴛ : <a href="https://www.github.com/Mask-sir">Mask Sir 🌟</a> <br />
@@ -32,7 +32,7 @@ https://gist.github.com/sataniceypz/0fbaa3522d51f84e206156d330776e11
 
 
 ```
-https://gist.github.com/sataniceypz/46ae9ca3358161f9ef99252230538869
+https://gist.github.com/Akshay-Eypz/46ae9ca3358161f9ef99252230538869
 ```
 ᴩᴀᴛᴛᴇʀɴ : mfor <br/>
 ᴄʀᴇᴅɪᴛ : <a href="https://www.github.com/sataniceypz">Eypz 🌟</a> <br />
@@ -46,7 +46,7 @@ https://gist.github.com/sataniceypz/46ae9ca3358161f9ef99252230538869
 
 
 ```
-https://gist.github.com/sataniceypz/9172cc8964d4bab912487d756c89d378
+https://gist.github.com/Akshay-Eypz/87c7321ab13f6b3bd5bcf0973a1c6d75
 ```
 ᴩᴀᴛᴛᴇʀɴ : fd <br/>
 ᴄʀᴇᴅɪᴛ : <a href="https://www.github.com/sataniceypz">Eypz 🌟</a> <br />
