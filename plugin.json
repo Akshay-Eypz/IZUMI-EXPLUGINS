@@ -6,24 +6,9 @@
       "usage": "send bot owner number"
     },
     {
-      "name": "Tiktok",
-      "url": "https://gist.github.com/Akshay-Eypz/0fbaa3522d51f84e206156d330776e11",
-      "usage": "random tiktok girl video"
-    },
-    {
-      "name": "mfor",
-      "url": "https://gist.github.com/Akshay-Eypz/46ae9ca3358161f9ef99252230538869",
-      "usage": "Forward message without jid"
-    },
-    {
       "name": "fwd",
       "url": "https://gist.github.com/Akshay-Eypz/87c7321ab13f6b3bd5bcf0973a1c6d75",
       "usage": "Forwarding message with jid"
-    },
-    {
-      "name": "nsfw",
-      "url": "https://gist.github.com/Akshay-Eypz/d1a603e3a0b18c1655487b7f5c5956f4",
-      "usage": "Get nsfw images (h-neko, h-waifu)"
     }
   ]
 }
