@@ -1,14 +1,18 @@
 {
   "plugins": [
     {
-      "name": "Owner",
+      "pattern": "owner",
       "url": "https://gist.github.com/Akshay-Eypz/a276b3b3d50d77425284b97da91ca47e",
       "usage": "send bot owner number"
     },
     {
-      "name": "fwd",
+      "pattern": "fwd",
       "url": "https://gist.github.com/Akshay-Eypz/87c7321ab13f6b3bd5bcf0973a1c6d75",
       "usage": "Forwarding message with jid"
-    }
-  ]
+    },
+    {
+      "pattern": "ping",
+      "url": "https://gist.github.com/sksbot7/7071a251638b0cc221d31c636ce88c0f",
+      "usage": "audio with ping message created by sksbot"
+  ] 
 }
