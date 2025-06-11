@@ -14,6 +14,26 @@
       "pattern": "ping",
       "url": "https://gist.github.com/sksbot7/7071a251638b0cc221d31c636ce88c0f",
       "usage": "audio with ping message created by sksbot"
+    },
+    {
+      "pattern": "animeb",
+      "url": "https://gist.github.com/Akshay-Eypz/b16568dd182229ef1b8276a9b445fe9e",
+      "usage": "random anime boy pfp",
+    },
+    {
+      "pattern": "animeg",
+      "url": "https://gist.github.com/Akshay-Eypz/36c0fc62a471f1684980c26f0dfaf717",
+      "usage": "random anime girl pfp",
+    },
+    {
+      "pattern": "hneko",
+      "url": "https://gist.github.com/Akshay-Eypz/6019d179118d4cfaaa98b4254daa2b82",
+      "usage": "random neko nsfw image"
+    },
+    {
+      "pattern": "hwaifu",
+      "url": "https://gist.github.com/Akshay-Eypz/aa9e3eec33a9a4fe7995889c5ec7d65d",
+      "usage": "random waifu nsfw image"
     }
   ] 
 }
