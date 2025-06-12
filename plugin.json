@@ -34,6 +34,11 @@
       "pattern": "hwaifu",
       "url": "https://gist.github.com/Akshay-Eypz/aa9e3eec33a9a4fe7995889c5ec7d65d",
       "usage": "random waifu nsfw image"
+    },
+    {
+      "pattern": "intro",
+      "url": "https://gist.github.com/Akshay-Eypz/bfd0073bf3be7dd466d6e416fa6d1eec",
+      "send user intro"
     }
   ] 
 }
