@@ -38,7 +38,7 @@
     {
       "pattern": "intro",
       "url": "https://gist.github.com/Akshay-Eypz/bfd0073bf3be7dd466d6e416fa6d1eec",
-      "send user intro"
+      "usage": "send user intro"
     }
   ] 
 }
