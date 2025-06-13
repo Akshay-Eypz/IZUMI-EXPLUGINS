@@ -39,6 +39,16 @@
       "pattern": "intro",
       "url": "https://gist.github.com/Akshay-Eypz/bfd0073bf3be7dd466d6e416fa6d1eec",
       "usage": "send user intro"
+    },
+    {
+      "patten": "encode / decode",
+      "url": "https://gist.github.com/Akshay-Eypz/c082f223c78e40f00df436780672d97e",
+      "usage": "encode text and decode text"
+    },
+    {
+      "pattern": "binaryencode / binarydecode",
+      "url": "https://gist.github.com/Akshay-Eypz/769518c9f064f4d11e2a371274a30f68",
+      "usage": "binary encode text and decode text"
     }
   ] 
 }
